@@ -2,6 +2,8 @@
 
 Browse and download files from [HSLU ILIAS](https://elearning.hslu.ch/ilias/) on the command line.
 
+**Windows users:** see [README-windows.md](README-windows.md).
+
 ## Install
 
 ```bash
